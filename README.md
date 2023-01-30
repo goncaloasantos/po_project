@@ -6,4 +6,16 @@
     export CLASSPATH=$(pwd)/../po-uilib/po-uilib.jar:$(pwd)/prr-core/prr-core.jar:$(pwd)/prr-app/prr-app.jar 
     ``` 
   - Fazer `make` do [po_uilib](po-uilib) e do [projeto](project)
-  - De seguida na pasta project/
+  
+  ## Existem agora duas hipóteses:
+  - Correr manualmente: 
+  ```sh
+  cd po_project/project 
+  java prr.app.App
+  ```
+   e ir inserindo os comandos desejados
+  - Correr automáticamente: 
+  ```sh
+  cd po_project/project/prr-tests-ef-eval-202211052226/
+  sh runtests.sh
+  ```
