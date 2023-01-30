@@ -1,0 +1,23 @@
+/ClientDoesntExistException.java/1.1/Wed Oct 19 11:56:17 2022//
+/ClientExistsException.java/1.5/Tue Oct 18 20:29:45 2022//
+/CommunicationNotSupportedAtDestinationException.java/1.1/Mon Oct 31 00:24:03 2022//
+/CommunicationNotSupportedAtOriginException.java/1.1/Mon Oct 31 00:24:03 2022//
+/ImportFileException.java/1.1/Wed Sep 14 16:51:38 2022//
+/InvalidCommunicationException.java/1.1/Tue Nov  1 23:31:40 2022//
+/InvalidTerminalIDException.java/1.1/Mon Oct 24 12:47:29 2022//
+/MissingFileAssociationException.java/1.1/Wed Sep 14 16:51:38 2022//
+/NetworkExceptions.java/1.2/Sun Oct 16 21:35:35 2022//
+/NoOnGoingCommunicationException.java/1.1/Sat Oct 29 19:48:32 2022//
+/NotificationsAlreadyDisabled.java/1.1/Wed Nov  2 20:19:16 2022//
+/NotificationsAlreadyEnabled.java/1.1/Wed Nov  2 20:19:16 2022//
+/TerminalAlreadyIdleException.java/1.1/Sat Oct 29 15:13:21 2022//
+/TerminalAlreadyOffException.java/1.2/Mon Oct 31 00:24:03 2022//
+/TerminalAlreadySilentException.java/1.1/Sat Oct 29 15:13:21 2022//
+/TerminalDoesntExistException.java/1.1/Wed Oct 19 13:44:23 2022//
+/TerminalExistsException.java/1.2/Mon Oct 17 18:58:03 2022//
+/TerminalIsBusyException.java/1.1/Mon Oct 31 00:24:03 2022//
+/TerminalIsOffException.java/1.1/Sat Oct 29 15:13:21 2022//
+/TerminalIsSilentException.java/1.1/Mon Oct 31 00:24:03 2022//
+/UnavailableFileException.java/1.2/Sat Oct  1 17:34:11 2022//
+/UnrecognizedEntryException.java/1.2/Wed Sep 14 17:39:54 2022//
+D
